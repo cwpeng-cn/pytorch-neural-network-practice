@@ -1,7 +1,6 @@
 # pytorch-neural-network-practice
 本仓库为《pytorch神经网络实践》代码
 
-__________
 
 ### 第四章 图像分类:
 **MobileNet V1&V2**: https://github.com/cwpeng-cn/mobilenet
