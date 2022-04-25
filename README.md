@@ -1,5 +1,5 @@
 # pytorch-neural-network-practice
-本仓库为《pytorch神经网络实践》代码
+本仓库为《pytorch神经网络实践》代码，如有疑问欢迎提issue。
 
 
 ### 第四章 图像分类:
