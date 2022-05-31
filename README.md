@@ -8,6 +8,10 @@ ______________________________________________________________________
 ### 第二章 Pytorch指南
 **Pytorch**: https://github.com/Xiaofeng-life/Pytorch_tutorial_for_book_pytorch
 
+______________________________________________________________________
+### 第三章 MeanNet
+**MeanNet**: https://github.com/Xiaofeng-life/Pytorch_tutorial_for_book_MeanNet
+
 ### 第四章 图像分类:
 **MobileNet V1&V2**: https://github.com/cwpeng-cn/mobilenet
 
