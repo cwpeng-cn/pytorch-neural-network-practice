@@ -8,11 +8,11 @@ ______________________________________________________________________
 **无代码**
 ______________________________________________________________________
 ### 第二章 Pytorch指南
-**Pytorch**: https://github.com/Xiaofeng-life/Pytorch_tutorial_for_book_pytorch
+**Pytorch**: https://github.com/Xiaofeng-life/CodesForPyTorchBook/tree/master/TutorialPytorch-main
 
 ______________________________________________________________________
 ### 第三章 MeanNet
-**MeanNet**: https://github.com/Xiaofeng-life/Pytorch_tutorial_for_book_MeanNet
+**MeanNet**: https://github.com/Xiaofeng-life/CodesForPyTorchBook/tree/master/MeanNet-main
 ______________________________________________________________________
 
 ### 第四章 图像分类:
@@ -20,11 +20,11 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 ### 第五章 图像分割
-**FCN**: https://github.com/Xiaofeng-life/Ptrorch_tutorial_for_Book_FCN
+**FCN**: https://github.com/Xiaofeng-life/CodesForPyTorchBook/tree/master/FCN-main
 
 ______________________________________________________________________
 ### 第六章 低光照图像质量增强
-**LLCNN**: https://github.com/Xiaofeng-life/Pytorch_tutorial_for_book_LLCNN
+**LLCNN**: https://github.com/Xiaofeng-life/CodesForPyTorchBook/tree/master/LLCNN-main
 
 ______________________________________________________________________
 ### 第七章 GAN动漫人脸生成:
@@ -44,7 +44,7 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 ### 第九章 无监督风格互换
-**CycleGAN**: https://github.com/Xiaofeng-life/Pytorch_tutorial_for_book_CycleGAN
+**CycleGAN**: https://github.com/Xiaofeng-life/CodesForPyTorchBook/tree/master/CycleGAN-main
 
 
 
